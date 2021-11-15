@@ -1,0 +1,35 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.blog{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+body{
+    border: 25px solid  #bdc7cf; 
+}
+
+h2{
+    color: #354b63;
+}
+
+.date{
+    text-transform: uppercase;
+    color: #3098dd;
+    font-size: 18px;   
+    letter-spacing: 8px;
+}
+
+p:first-of-type {
+    border-left: 5px solid #bdc7cf;
+  }
+  
+  
+
+div{
+    line-height: 2;
+  }
